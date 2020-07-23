@@ -8,6 +8,8 @@ public class Piece {
 	public Piece(Board board) {
 	
 		this.board = board;
+		//System.out.println(this.board);
+		position = null;
 		
 	}
 
